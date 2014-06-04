@@ -9,7 +9,7 @@ http://ai-depot.com/articles/minimax-explained/1/
 Example to play
 ===============
 
-First palyer ? y/n\n
+First palyer ? y/n
 y
 Choose your marker X/O
 X
