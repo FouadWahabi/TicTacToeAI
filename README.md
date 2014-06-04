@@ -5,20 +5,3 @@ In order to make the game unbeatable, it was necessary to create an algorithm th
 
 Visit the link below for a good explanation of the algorithm : 
 http://ai-depot.com/articles/minimax-explained/1/
-
-Example to play
-===============
-
-First palyer ? y/n
-y
-Choose your marker X/O
-X
-It's your turn
-0 0
-| X ||   ||   |
-|   ||   ||   |
-|   ||   ||   |
-Computer turn
-| X ||   ||   |
-|   || O ||   |
-|   ||   ||   | ...
