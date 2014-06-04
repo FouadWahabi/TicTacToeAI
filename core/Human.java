@@ -8,7 +8,7 @@ public class Human {
 	public boolean firstPlayer;
 	public char marker;
 	public void playMove(Board board) {
-		// TODO Auto-generated method stub
+	
 		Scanner in = new Scanner(System.in);
 		Point p;
 		do {
